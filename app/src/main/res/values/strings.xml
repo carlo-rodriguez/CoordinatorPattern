@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoordinatorPattern</string>
+    <string name="main_text">click me</string>
+    <string name="home_text">Home</string>
+</resources>
